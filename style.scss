@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Henny+Penny&family=Oswald:wght@700&family=Pattaya&family=Roboto+Serif:ital,opsz,wght@1,8..144,300&display=swap");
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Henny Penny";
+  text-align: center;
+  font-weight: bold;
+  color: #9453a6;
+}
+
+h2,
+h3 {
+  font-family: "Pattaya";
+  text-align: center;
+  font-weight: bold;
+  color: #9453a6;
+}
+.card > img {
+  width: 10rem;
+  height: 10rem;
+  align-items: center;
+}
+h5 {
+  text-align: center;
+}
+a {
+  align-items: center;
+}
+.card {
+  height: 20em;
+}
+header,
+footer {
+  background-color: #8cbf3f;
+}
+
+main {
+  background-color: #f2f2f2;
+}
+
+.col-8 {
+  background-color: white;
+}
+
+.about {
+  width: 15rem;
+  height: 15rem;
+}
+video {
+  width: 90%;
+  height: 80%;
+  background-color: black;
+}
+.galery,
+.form {
+  background-color: #f2cc0f;
+}
+.transition {
+  width: 22rem;
+  height: 20rem;
+  align-items: center;
+  transition: width 0.5s 0.15s, height 0.5s 0.15s;
+}
+.transition:hover {
+  width: 27rem;
+  height: 30rem;
+}
+.margin-20 {
+  margin-bottom: 20px;
+}
+.margin-250 {
+  margin-bottom: 400px;
+}
+.margin-30 {
+  margin-bottom: 30%;
+  background-color: red;
+}
+.big-pic {
+  width: 70rem;
+  height: 50rem;
+}

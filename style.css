@@ -24,6 +24,11 @@ h3 {
   align-items: center;
 }
 
+.carousel-item > img {
+  width: 20rem;
+  height: 40rem;
+}
+
 h5 {
   text-align: center;
 }
@@ -93,4 +98,8 @@ video {
 .big-pic {
   width: 70rem;
   height: 50rem;
+}
+
+.btn {
+  background-color: #9453a6;
 }/*# sourceMappingURL=style.css.map */
